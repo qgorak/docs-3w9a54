@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-n7tfp4.emcali.top/sitemap.xml
